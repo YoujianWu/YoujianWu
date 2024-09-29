@@ -1,16 +1,19 @@
-## Hi there 👋
+<div align='center'>
+  
+  ![Profile](https://github-widgetbox.vercel.app/api/profile?username=YoujianWu&data=followers,repositories,stars,commits)
+  ![](https://github-profile-trophy.vercel.app/?username=YoujianWu)
+  
+</div>
 
-<!--
-**YoujianWu/YoujianWu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+### Hi there 👋, I'm Summer(YoujianWu).
+- 🔭 I’m currently studying in Guangdong University of Technology.
+- 🌱 I’m currently learning stm32 and ros-control.
+- 👯 I’m looking to collaborate on embedded project and ROS project.
+<div align='center'>
+  
+[![YoujianWu's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoujianWu&hide=stars&show_icons=true&count_private=true&hide_rank=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+  
+</div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
