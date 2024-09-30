@@ -2,7 +2,7 @@
   
   ![Profile](https://github-widgetbox.vercel.app/api/profile?username=YoujianWu&data=followers,repositories,stars,commits)
   ![](https://github-profile-trophy.vercel.app/?username=YoujianWu)
-  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YoujianWu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 ---
